@@ -1,0 +1,23 @@
+body{
+	background-color: #CECCCC;
+}
+
+h1,
+p, a, li, th, td 
+	.nanum-gothic-regular {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#photoSauce{
+    background: url("photoSauce.jpg");
+    background-repeat: no-repeat;
+    Background-size: cover;
+    height: 300px;
+    padding: 60px 0px;
+}
+.colorBand {
+    background: #C4DACF;
+    height: 120px;
+    width: 100%;
+}
