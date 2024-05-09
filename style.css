@@ -2,6 +2,10 @@ body{
 	background-color: #CECCCC;
 }
 
+h1{
+    font-size: 60px;
+}
+
 h1,
 p, a, li, th, td 
 	.nanum-gothic-regular {
@@ -13,7 +17,7 @@ p, a, li, th, td
     background: url("photoSauce.jpg");
     background-repeat: no-repeat;
     Background-size: cover;
-    height: 300px;
+    height: 180px;
     padding: 60px 0px;
 }
 .colorBand {
